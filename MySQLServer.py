@@ -5,7 +5,7 @@ try:
     mydb = mysql.connector.connect(
     host = "localhost",
     user="root",
-    password="Karonwi006#",
+    password="NewStrongPassword#123",
     database="alx_book_store"
     )
     
